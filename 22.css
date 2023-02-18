@@ -1,0 +1,130 @@
+.mediaViewInfo {
+	--web-view-name: carusel – 4;
+	--web-view-id: carusel__4;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: carusel__4;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#carusel__4 {
+	position: absolute;
+	width: 1920px;
+	height: 1745px;
+	background-color: rgba(12,103,108,1);
+	overflow: hidden;
+	--web-view-name: carusel – 4;
+	--web-view-id: carusel__4;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#carusel_e {
+	position: absolute;
+	width: 3795px;
+	height: 1432px;
+	left: 526px;
+	top: 138px;
+	overflow: visible;
+}
+#unu_e {
+	position: absolute;
+	width: 670px;
+	height: 1045px;
+	left: 1661px;
+	top: 317px;
+	overflow: visible;
+}
+#doi_e {
+	position: absolute;
+	width: 670px;
+	height: 1105px;
+	left: 2393px;
+	top: 291px;
+	overflow: visible;
+}
+#doi_la_unu_e {
+	position: absolute;
+	width: 670px;
+	height: 1105px;
+	left: 3125px;
+	top: 291px;
+	overflow: visible;
+}
+#trei_e {
+	position: absolute;
+	width: 669px;
+	height: 1042px;
+	left: 930px;
+	top: 322px;
+	overflow: visible;
+}
+#trei__la_unu_e {
+	position: absolute;
+	width: 868px;
+	height: 1432px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#carusel_e {
+	position: absolute;
+	width: 3795px;
+	height: 1432px;
+	left: 526px;
+	top: 138px;
+	overflow: visible;
+}
+#unu_e {
+	position: absolute;
+	width: 670px;
+	height: 1045px;
+	left: 1661px;
+	top: 317px;
+	overflow: visible;
+}
+#doi_e {
+	position: absolute;
+	width: 670px;
+	height: 1105px;
+	left: 2393px;
+	top: 291px;
+	overflow: visible;
+}
+#doi_la_unu_e {
+	position: absolute;
+	width: 670px;
+	height: 1105px;
+	left: 3125px;
+	top: 291px;
+	overflow: visible;
+}
+#trei_e {
+	position: absolute;
+	width: 669px;
+	height: 1042px;
+	left: 930px;
+	top: 322px;
+	overflow: visible;
+}
+#trei__la_unu_e {
+	position: absolute;
+	width: 868px;
+	height: 1432px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}

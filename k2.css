@@ -1,0 +1,371 @@
+.mediaViewInfo {
+	--web-view-name: DESKTOP – 1;
+	--web-view-id: DESKTOP__1;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: DESKTOP__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#DESKTOP__1 {
+	position: absolute;
+	width: 1920px;
+	height: 4381px;
+	background-color: rgba(12,103,108,1);
+	overflow: hidden;
+	--web-view-name: DESKTOP – 1;
+	--web-view-id: DESKTOP__1;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#design_bv {
+	transform: matrix(1,0,0,1,-133.6486,-334.949) rotate(-38deg);
+	transform-origin: center;
+	position: absolute;
+	width: 2227.258px;
+	height: 2104.518px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#design_bw {
+	position: absolute;
+	width: 1899.096px;
+	height: 1186.935px;
+	left: 575.839px;
+	top: 921.342px;
+	overflow: visible;
+}
+#CUM_AM_INCEPUT_ {
+	left: 705px;
+	top: 1387px;
+	position: absolute;
+	overflow: visible;
+	width: 565px;
+	white-space: nowrap;
+	line-height: 68px;
+	margin-top: -1.5px;
+	text-align: center;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 65px;
+	color: rgba(10,10,10,1);
+	letter-spacing: 0.44px;
+}
+#Rectangle_26_by {
+	filter: blur(5px);
+	fill: rgba(255,255,255,0.18);
+}
+.Rectangle_26_by {
+	position: absolute;
+	overflow: visible;
+	width: 1950px;
+	height: 60.868px;
+	left: 0px;
+	top: 3612px;
+}
+#Group_1_bz {
+	position: absolute;
+	width: 493.479px;
+	height: 292.826px;
+	left: 626px;
+	top: 743px;
+	overflow: visible;
+}
+#Rectangle_38_b {
+	opacity: 0.64;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_38_b {
+	mix-blend-mode: multiply;
+	filter: drop-shadow(0px 4px 7px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 287px;
+	height: 208px;
+	left: 126.79px;
+	top: 0px;
+}
+#LOGO_transparent_-_Copy_b {
+	position: absolute;
+	width: 493.479px;
+	height: 277.582px;
+	left: 0px;
+	top: 15.244px;
+	overflow: visible;
+}
+#LOGO_transparent_-_Copy_ca {
+	position: absolute;
+	width: 493.479px;
+	height: 277.582px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_15_b {
+	opacity: 0.63;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_15_b {
+	position: absolute;
+	overflow: visible;
+	width: 1943.345px;
+	height: 6.569px;
+	left: -23.345px;
+	top: 1361.118px;
+}
+#Rectangle_37_b {
+	opacity: 0.64;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_37_b {
+	position: absolute;
+	overflow: visible;
+	width: 1936px;
+	height: 6.569px;
+	left: 0px;
+	top: 1492.118px;
+}
+#Rectangle_39_b {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_39_b {
+	mix-blend-mode: multiply;
+	filter: drop-shadow(3px 5px 8px rgba(0, 0, 0, 0.929));
+	position: absolute;
+	overflow: visible;
+	width: 1944px;
+	height: 1590px;
+	left: 0px;
+	top: 3409px;
+}
+#Rectangle_41_b {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_41_b {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 20px;
+	left: 0px;
+	top: 6863px;
+}
+#Rectangle_42_b {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_42_b {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 20px;
+	left: 0px;
+	top: 8114px;
+}
+#Copyrigt_2023__gusus_b {
+	left: 60px;
+	top: 10069px;
+	position: absolute;
+	overflow: visible;
+	width: 157px;
+	white-space: nowrap;
+	line-height: 26px;
+	margin-top: -5.5px;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(38,153,251,1);
+}
+#Totul_a_nceput_din_pur_pasiune {
+	left: 116px;
+	top: 1588px;
+	position: absolute;
+	overflow: visible;
+	width: 1743px;
+	white-space: nowrap;
+	line-height: 68px;
+	margin-top: -12px;
+	text-align: center;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 44px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.22px;
+}
+#Rectangle_43 {
+	opacity: 0;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_43 {
+	mix-blend-mode: hue;
+	position: absolute;
+	overflow: visible;
+	width: 1887px;
+	height: 2244px;
+	left: 5px;
+	top: 1368px;
+}
+#Group_2 {
+	position: absolute;
+	width: 1920px;
+	height: 124px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_44 {
+	opacity: 0.3;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_44 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 124px;
+	left: 0px;
+	top: 0px;
+}
+#DESPRE_NOI_cd {
+	position: absolute;
+	width: 182px;
+	height: 48px;
+	left: 637px;
+	top: 56px;
+	overflow: visible;
+}
+#Component_14__1_ce {
+	position: absolute;
+	width: 182px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Mask_Group_6_cf {
+	position: absolute;
+	width: 182px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#CONTACT_cg {
+	position: absolute;
+	width: 165px;
+	height: 48px;
+	left: 909px;
+	top: 58px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: desk 2.html;
+	cursor: pointer;
+}
+#Mask_Group_9_ch {
+	position: absolute;
+	width: 165px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#ACASA_ci {
+	position: absolute;
+	width: 113px;
+	height: 31px;
+	left: 449px;
+	top: 70px;
+	overflow: visible;
+	transition: all 0.30000001192092896s ease-out;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: desk.html;
+	cursor: pointer;
+}
+#Mask_Group_8_cj {
+	position: absolute;
+	width: 113px;
+	height: 31px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#DESPRE_NOI_ck {
+	left: 547px;
+	top: 424px;
+	position: absolute;
+	overflow: visible;
+	width: 535px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 98px;
+	color: rgba(20,18,18,1);
+}

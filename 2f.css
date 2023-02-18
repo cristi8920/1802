@@ -1,0 +1,148 @@
+.mediaViewInfo {
+	--web-view-name: carusel;
+	--web-view-id: carusel;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: carusel;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#carusel {
+	position: absolute;
+	width: 1920px;
+	height: 1745px;
+	background-color: rgba(12,103,108,1);
+	overflow: hidden;
+	--web-view-name: carusel;
+	--web-view-id: carusel;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#carusel_df {
+	position: absolute;
+	width: 3792px;
+	height: 1352px;
+	left: -936px;
+	top: 178px;
+	overflow: visible;
+}
+#unu_dg {
+	position: absolute;
+	width: 868px;
+	height: 1352px;
+	left: 1462px;
+	top: 0px;
+	overflow: visible;
+}
+#doi_dh {
+	position: absolute;
+	width: 670px;
+	height: 1105px;
+	left: 2391px;
+	top: 247px;
+	overflow: visible;
+}
+#doi_la_unu_di {
+	position: absolute;
+	width: 670px;
+	height: 1105px;
+	left: 3122px;
+	top: 247px;
+	overflow: visible;
+}
+#trei_dj {
+	position: absolute;
+	width: 670px;
+	height: 1105px;
+	left: 731px;
+	top: 247px;
+	overflow: visible;
+}
+#trei__la_unu_dk {
+	position: absolute;
+	width: 670px;
+	height: 1105px;
+	left: 0px;
+	top: 247px;
+	overflow: visible;
+}
+#carusel_df {
+	position: absolute;
+	width: 3792px;
+	height: 1352px;
+	left: -936px;
+	top: 178px;
+	overflow: visible;
+}
+#unu_dg {
+	position: absolute;
+	width: 868px;
+	height: 1352px;
+	left: 1462px;
+	top: 0px;
+	overflow: visible;
+}
+#doi_dh {
+	position: absolute;
+	width: 670px;
+	height: 1105px;
+	left: 2391px;
+	top: 247px;
+	overflow: visible;
+}
+#doi_la_unu_di {
+	position: absolute;
+	width: 670px;
+	height: 1105px;
+	left: 3122px;
+	top: 247px;
+	overflow: visible;
+}
+#trei_dj {
+	position: absolute;
+	width: 670px;
+	height: 1105px;
+	left: 731px;
+	top: 247px;
+	overflow: visible;
+}
+#trei__la_unu_dk {
+	position: absolute;
+	width: 670px;
+	height: 1105px;
+	left: 0px;
+	top: 247px;
+	overflow: visible;
+}
+#Rectangle_45 {
+	opacity: 0;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_45 {
+	position: absolute;
+	overflow: visible;
+	width: 2161px;
+	height: 9599px;
+	left: -101px;
+	top: -33px;
+}
